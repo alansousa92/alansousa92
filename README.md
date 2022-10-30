@@ -7,6 +7,10 @@
   <a href="https://www.instagram.com/alan.ss.linux/"><img src="https://img.shields.io/badge/Instagram-white?logo=Instagram" width="110"></a>
 </div>
   <hr>
+  <div align="center">
+  <img src="https://www.freepik.com/premium-vector/software-development-concept-with-people-scene-flat-cartoon-design-man-working-with-php-language-coding-screens-programming-creates-products-vector-illustration-visual-story-web_30250425.htm#query=banner%20php&position=9&from_view=search&track=sph" width="" height=""/>
+</div>
+  <hr>
 <ul>
   <li align="left">👋 Hi, I’m @alansousa92</li>
   <li align="left">👀 I’m interested in Web Development</li>
