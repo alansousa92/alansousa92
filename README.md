@@ -3,7 +3,7 @@
 <div>
 <div>
   <a href="https://twitter.com/alanssousa1"><img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" width="100"></a>
-  <a href="https://www.linkedin.com/in/alan-s-sousa-562834202/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"></a>
+  <a href="https://www.linkedin.com/in/alan-s-sousa-562834202/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="110"></a>
   <a href="https://www.instagram.com/alan.ss.linux/"><img src="https://img.shields.io/badge/Instagram-white?logo=Instagram" width="100"></a>
 </div>
   <hr>
