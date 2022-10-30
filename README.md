@@ -8,7 +8,7 @@
 </div>
   <hr>
   <div align="center">
-  <img src="https://github.com/alansousa92/alansousa92/blob/main/tumblr_ogm1evWJXa1v6a1bfo1_500.gif" width="100" height=""/>
+  <img src="https://github.com/alansousa92/alansousa92/blob/main/tumblr_ogm1evWJXa1v6a1bfo1_500.gif" width="500" height=""/>
 </div>
   <hr>
 <ul>
