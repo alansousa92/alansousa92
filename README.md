@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 <div>
 <div>
-  <a href=""><img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" width="100"></a>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href=""><img src="https://img.shields.io/badge/Instagram-white?logo=Instagram"></a>
+  <a href="https://twitter.com/alanssousa1"><img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" width="100"></a>
+  <a href="https://www.linkedin.com/in/alan-s-sousa-562834202/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"></a>
+  <a href="https://www.instagram.com/alan.ss.linux/"><img src="https://img.shields.io/badge/Instagram-white?logo=Instagram" width="100"></a>
 </div>
   <hr>
 <ul>
