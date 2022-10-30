@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 <div>
 <div>
-  <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/Instagram-white?logo=Instagram">
+  <a href=""><img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" width="100"></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-white?logo=Instagram"></a>
 </div>
   <hr>
 <ul>
