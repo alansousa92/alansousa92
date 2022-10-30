@@ -1,9 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 <div>
-- 👋 Hi, I’m @alansousa92
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
+<ul>
+  <li>- 👋 Hi, I’m @alansousa92</li>
+  <li>- 👀 I’m interested in Web Development</li>
+  <li>- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP</li>
+</ul>
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
