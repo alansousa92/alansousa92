@@ -3,12 +3,15 @@
 <div>
   <hr>
 <ul>
-  <li style="text-align: left;">- 👋 Hi, I’m @alansousa92</li>
+  <li align="left">- 👋 Hi, I’m @alansousa92</li>
   <li>- 👀 I’m interested in Web Development</li>
   <li>- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP</li>
 </ul>
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+<div>
+  <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-white?logo=Instagram">
+</div>
 
 <!---
 alansousa92/alansousa92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
