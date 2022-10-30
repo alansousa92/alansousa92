@@ -13,7 +13,7 @@
   <hr>
 <ul>
   <li align="left">👋 Hi, I’m @alansousa92</li>
-  <li align="left">👀 I’m interested in Web Development</li>
+  <li align="left">👀 I’m interested in Web Development, Linux, C/C++</li>
   <li align="left">🌱 I’m currently learning HTML, CSS, JavaScript and PHP</li>
 </ul>
 
