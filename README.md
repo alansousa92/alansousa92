@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 <div>
   <hr>
-<ul>
+<ul style="text-align: left;">
   <li>- 👋 Hi, I’m @alansousa92</li>
   <li>- 👀 I’m interested in Web Development</li>
   <li>- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP</li>
